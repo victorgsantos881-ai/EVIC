@@ -1,0 +1,14 @@
+{
+  "name": "evic",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "contracts"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev --workspace=apps/web",
+    "dev:api": "npm run dev --workspace=apps/api",
+    "compile": "npm run compile --workspace=contracts"
+  }
+}
+]
