@@ -283,9 +283,39 @@ cd apps/api
 npm run dev
 ```
 
+# 🚀 COMO CORRER TUDO
+
+## 1️⃣ instalar tudo
+
+```
+
+npm install
+```
+
+## 2️⃣ blockchain local
+
+```
+npx hardhat node
+```
+
+## 3️⃣ deploy contrato
+
+```
+npx hardhat run scripts/deploy.js --network localhost
+```
+
+## 4️⃣ backend
+
+```
+cd apps/api
+npm run dev
+```
+
+
 ## 5️⃣ Frontend
 
 ```
 cd apps/web
 npm run dev
 ```
+
