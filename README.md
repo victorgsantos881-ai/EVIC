@@ -20,4 +20,49 @@ Este projeto contém contratos inteligentes desenvolvidos em **Solidity**, inici
 ---
 
 ## 📁 Estrutura do Projeto
+/apps
+   /web (Next.js frontend)
+   /api (NestJS backend)
+
+/contracts
+   /core
+   /tokens
+   /governance
+
+/packages
+   /ui (design system branco/preto/bege)
+   /utils
+   /config
+
+/infrastructure
+   docker/
+   k8s/
+   nginx/
+
+/docs
+
+# 🏗️ REPOSITÓRIO WEB3 COMPLETO (MONOREPO REAL)
+
+# # 📁 Estrutura final
+
+web3-platform/
+│
+├── apps/
+│   ├── web/              # Next.js Frontend
+│   └── api/              # Node/Nest Backend (simplificado)
+│
+├── contracts/           # Smart Contracts (Hardhat)
+│
+├── packages/
+│   └── ui/              # Design system (branco/preto/bege)
+│
+├── infrastructure/
+│
+├── .env.example
+├── package.json
+└── README.md
+
+
+
+
 
