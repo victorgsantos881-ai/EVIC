@@ -65,10 +65,10 @@ web3-platform/
 ``` 
 # 🌐 2. FRONTEND (Next.js)
 
-# # 📦 Instalação📦 Instalação
+# # 📦 Instalação
 
 
-``` 
+```
 cd apps/web
 npx create-next-app@latest web
 npm install wagmi viem ethers @rainbow-me/rainbowkit tailwindcss
