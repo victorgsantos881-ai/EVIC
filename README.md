@@ -105,9 +105,9 @@ export default function Navbar() {
 }
 ```
 
- ## ⚙️ 3. BACKEND (API simples Node.js)
+ # ⚙️ 3. BACKEND (API simples Node.js)
  
-# 📦 apps/api/package.json
+##  📦 apps/api/package.json
 
 ```
 {
@@ -146,9 +146,9 @@ app.listen(4000, () => {
 });
 ```
 
-## ⛓️ 4. SMART CONTRACTS (Hardhat)
+# ⛓️ 4. SMART CONTRACTS (Hardhat)
 
-# 📦 contracts/package.json
+## 📦 contracts/package.json
 
 ```
 {
@@ -210,9 +210,9 @@ async function main() {
 main().catch(console.error);
 ```
 
-## 🎨 5. DESIGN SYSTEM (BRANCO / PRETO / BEGE)
+# 🎨 5. DESIGN SYSTEM (BRANCO / PRETO / BEGE)
 
-# 📦 packages/ui/colors.js
+## 📦 packages/ui/colors.js
 
 ```
 
@@ -254,9 +254,9 @@ RPC_URL=http://127.0.0.1:8545
 NEXT_PUBLIC_API=http://localhost:4000
 ```
 
-## 🚀 7. COMO CORRER O PROJETO
+# 🚀 7. COMO CORRER O PROJETO
 
-# 1️⃣ Instalar dependências
+## 1️⃣ Instalar dependências
 
 
 ```
