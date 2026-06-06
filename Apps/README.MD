@@ -92,8 +92,9 @@ export default function Home() {
 
 #🧩 FEATURES FRONTEND
 
-. ✔ Login com wallet
-. ✔ UI minimalista
-. ✔ Dashboard ready
-. ✔ Base para dApp
-. ✔ Responsivo mobile-first
+ ✔ Login com wallet/
+ ✔ UI minimalista/
+ ✔ Dashboard ready/
+ ✔ Base para dApp/
+ ✔ Responsivo mobile-first/
+
